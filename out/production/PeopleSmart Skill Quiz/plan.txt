@@ -1,0 +1,17 @@
+----REQUIREMENTS----
+> The main window will display:
+    -The question in a big font.
+    -Four button labeled 1 to 4 to answer the question.
+    -A score that tracks the score of the answers.
+> After all the question were answered, the screen will display a statistic that rate:
+    -The score on each of 7 question category.
+    -The total score of all.
+    -Reference that indicate an ideal score.
+> Each of the question scene will have different background color depending on its category.
+> The scene of one question will do a slide transition to the scene of another question.
+
+
+----BACKLOG----
+> Add welcome screen(Label: "How people smart are you?", Button: "Take the Test!").
+> Fix the positions of the input button.
+> Add screenshot functionality to the score screen.
